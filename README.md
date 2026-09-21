@@ -51,14 +51,14 @@ source .venv/bin/activate
 Windows PowerShell:
 
 ```powershell
-py -m venv .venv
+python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
 ### 3. Instale as dependências
 
 ```bash
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Inicie a aplicação
